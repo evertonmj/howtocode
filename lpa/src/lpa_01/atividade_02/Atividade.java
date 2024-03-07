@@ -2,9 +2,12 @@ package lpa_01.atividade_02;
 
 import java.util.Scanner;
 
-
+/**
+ * Missao: Imprimir a discografia do Led Zeppelin na tela
+ */
+//Classe eh o elemento principal de um programa java e SEMPRE deve iniciar com letra maiuscula
 public class Atividade {
-    //Main eh o método prin
+    //Main eh o método principal de um programa Java
     public static void main (String args[]) {
         //Scanner eh uma classe utilizada para habilitar entrada de dados no programa
         Scanner in = new Scanner(System.in);
