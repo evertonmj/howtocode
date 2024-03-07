@@ -28,10 +28,11 @@ public class Atividade {
             Utilize um loop para mostra-los e escrever menos codigo :)
             Para facilitar a vida de voces, podem imprimir com numeros 1, 2, 3 e 4
             Quem imprimir utilizando algarismos romanos ganha pontuacao extra
-                Led Zeppelin I
-                Led Zeppelin II
-                Led Zeppelin III
-                Led Zeppelin IV
+
+            Led Zeppelin I
+            Led Zeppelin II
+            Led Zeppelin III
+            Led Zeppelin IV
             Houses of The Holly
             Physical Grafitti
             Presence
